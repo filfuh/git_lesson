@@ -1,5 +1,6 @@
 # Headline
 
+
 x <- rnorm(500)
 y <- rnorm(500)
 
@@ -8,4 +9,6 @@ y <- rnorm(500)
 
 # New feature
 
-# Normal development
+# Important features
+
+# An alternative way forward
